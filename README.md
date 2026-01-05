@@ -45,7 +45,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/jeevan-app.git
+   git clone https://github.com/shresth16k/jeevan-app.git
    cd jeevan-app
    ```
 
@@ -209,9 +209,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- **Documentation**: Check our [Wiki](../../wiki) for detailed guides
-- **Issues**: Report bugs via [GitHub Issues](../../issues)
-- **Discussions**: Join our [GitHub Discussions](../../discussions)
+- **Documentation**: Check our [Wiki](https://github.com/shresth16k/jeevan-app/wiki) for detailed guides
+- **Issues**: Report bugs via [GitHub Issues](https://github.com/shresth16k/jeevan-app/issues)
+- **Discussions**: Join our [GitHub Discussions](https://github.com/shresth16k/jeevan-app/discussions)
 
 ## 🙏 Acknowledgments
 
@@ -226,6 +226,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for safer journeys**
 
-[Report Bug](../../issues) • [Request Feature](../../issues) • [Documentation](../../wiki)
+[Report Bug](https://github.com/shresth16k/jeevan-app/issues) • [Request Feature](https://github.com/shresth16k/jeevan-app/issues) • [Documentation](https://github.com/shresth16k/jeevan-app/wiki)
 
 </div>
